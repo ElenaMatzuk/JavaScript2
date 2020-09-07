@@ -20,10 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a387b5-4321-489d-84a9-6170c1f69632" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../hw7/src/public/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw7/src/webpack.dev.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw7/src/webpack.prod.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw7/src/webpack.server.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw7/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw7/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw7/public/css/normalize.css" beforeDir="false" />
@@ -44,6 +40,10 @@
       <change beforePath="$PROJECT_DIR$/../hw7/server/db/userCart.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw7/server/handler.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw7/server/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7/src/public/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/src/public/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7/src/webpack.dev.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/src/webpack.dev.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7/src/webpack.prod.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/src/webpack.prod.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7/src/webpack.server.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/src/webpack.server.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +89,7 @@
       <workItem from="1599413084482" duration="2879000" />
       <workItem from="1599417998412" duration="1447000" />
       <workItem from="1599421287937" duration="1502000" />
+      <workItem from="1599469749651" duration="37000" />
     </task>
     <servers />
   </component>
