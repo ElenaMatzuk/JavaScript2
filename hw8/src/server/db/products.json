@@ -1,0 +1,38 @@
+[
+  {
+    "id_product": 124,
+    "product_name": "Маринованные огурцы",
+    "price": 120,
+    "image": "img/cucumber.jpg"
+  },
+  {
+    "id_product": 457,
+    "product_name": "Маринованный чеснок",
+    "price": 250,
+    "image" : "img/garlic.jpg"
+  },
+  {
+    "id_product": 123,
+    "product_name": "Маринованная капуста в перце",
+    "price": 120,
+    "image" : "img/pepper.jpg"
+  },
+  {
+    "id_product": 456,
+    "product_name": "Соленые огурцы",
+    "price": 300,
+     "image": "img/saltcucumber.jpg"
+  },
+  {
+    "id_product": 458,
+    "product_name": "Кабачковая икра",
+    "price": 80,
+    "image": "img/zucchini-caviar.jpg"
+  },
+  {
+    "id_product": 459,
+    "product_name": "Маринованные помидоры",
+    "price": 120,
+    "image": "img/tomato.jpg"
+  }
+]
